@@ -68,6 +68,15 @@ export default function Index() {
             </a>
           </li>
         </ul>
+        <span
+          style={{
+            width: '100%',
+            display: 'flex',
+            justifyContent: 'center',
+          }}
+        >
+          Created by Mobeen Khan
+        </span>
       </div>
     </div>
   )
